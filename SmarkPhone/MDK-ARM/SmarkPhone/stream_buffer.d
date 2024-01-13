@@ -1,0 +1,14 @@
+smarkphone\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c
+smarkphone\stream_buffer.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+smarkphone\stream_buffer.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+smarkphone\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+smarkphone\stream_buffer.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+smarkphone\stream_buffer.o: ../Core/Inc/FreeRTOSConfig.h
+smarkphone\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+smarkphone\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+smarkphone\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+smarkphone\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+smarkphone\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+smarkphone\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+smarkphone\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+smarkphone\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stream_buffer.h

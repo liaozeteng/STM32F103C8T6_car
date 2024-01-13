@@ -1,0 +1,15 @@
+smarkphone\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+smarkphone\event_groups.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+smarkphone\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+smarkphone\event_groups.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+smarkphone\event_groups.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+smarkphone\event_groups.o: ../Core/Inc/FreeRTOSConfig.h
+smarkphone\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+smarkphone\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+smarkphone\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+smarkphone\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+smarkphone\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+smarkphone\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+smarkphone\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+smarkphone\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+smarkphone\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h

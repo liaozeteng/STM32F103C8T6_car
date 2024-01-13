@@ -1,0 +1,15 @@
+smarkphone\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+smarkphone\queue.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+smarkphone\queue.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+smarkphone\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+smarkphone\queue.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+smarkphone\queue.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+smarkphone\queue.o: ../Core/Inc/FreeRTOSConfig.h
+smarkphone\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+smarkphone\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+smarkphone\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+smarkphone\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+smarkphone\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+smarkphone\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+smarkphone\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+smarkphone\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h

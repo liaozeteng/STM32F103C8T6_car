@@ -1,0 +1,15 @@
+smarkphone\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/timers.c
+smarkphone\timers.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+smarkphone\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+smarkphone\timers.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+smarkphone\timers.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+smarkphone\timers.o: ../Core/Inc/FreeRTOSConfig.h
+smarkphone\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+smarkphone\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+smarkphone\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+smarkphone\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+smarkphone\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+smarkphone\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+smarkphone\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+smarkphone\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
+smarkphone\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h

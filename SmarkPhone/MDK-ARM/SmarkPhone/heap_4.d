@@ -1,0 +1,13 @@
+smarkphone\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+smarkphone\heap_4.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+smarkphone\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+smarkphone\heap_4.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+smarkphone\heap_4.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+smarkphone\heap_4.o: ../Core/Inc/FreeRTOSConfig.h
+smarkphone\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+smarkphone\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+smarkphone\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+smarkphone\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+smarkphone\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+smarkphone\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+smarkphone\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

@@ -1,0 +1,14 @@
+smarkphone\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
+smarkphone\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+smarkphone\croutine.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+smarkphone\croutine.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+smarkphone\croutine.o: ../Core/Inc/FreeRTOSConfig.h
+smarkphone\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+smarkphone\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+smarkphone\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+smarkphone\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+smarkphone\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+smarkphone\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+smarkphone\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+smarkphone\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/croutine.h
+smarkphone\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
